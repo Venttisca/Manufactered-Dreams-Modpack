@@ -1,0 +1,18 @@
+filename = 'mace3d-1.2.0-1.21.1+neoforge.jar'
+name = 'Awesome 3D Mace'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Awesome 3D Mace - MC 1.21.1 - 1.2.0'
+
+[download]
+hash = '47bc853901ab453be4f55c4759d1bc01364d7316'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7243121
+project-id = 1037680

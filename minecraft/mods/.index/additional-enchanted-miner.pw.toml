@@ -1,0 +1,21 @@
+filename = 'AdditionalEnchantedMiner-1.21.1-neoforge-21.1.153.jar'
+name = 'Additional Enchanted Miner'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v21.1.153-neoforge'
+
+[download]
+hash = '52caa75215b244871e274152fb2174320287ca72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8008305
+project-id = 282837
+
+[[x-prismlauncher-dependencies]]
+addonId = '320926'
+type = 'REQUIRED'

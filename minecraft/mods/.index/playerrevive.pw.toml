@@ -1,0 +1,21 @@
+filename = 'PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar'
+name = 'PlayerRevive'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar'
+
+[download]
+hash = 'b1ee96cfefa36e1c05aaab8e92bfb3f9ae927d15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8057637
+project-id = 266890
+
+[[x-prismlauncher-dependencies]]
+addonId = '257814'
+type = 'REQUIRED'

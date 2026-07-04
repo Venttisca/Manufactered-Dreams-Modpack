@@ -1,0 +1,29 @@
+filename = 'ender_pack-merged-1.21.1-2.2.0.jar'
+name = 'EnderPack - New Backpack'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] EnderPack - MC 1.21.1 - 2.2.0'
+
+[download]
+hash = '49f25ce60f0a3f21923610b86a0206176d3edc06'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6404199
+project-id = 959446
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

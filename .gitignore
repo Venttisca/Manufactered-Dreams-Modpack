@@ -1,0 +1,21 @@
+# Ingnorar configuración de visualización de dolphin
+.directory
+
+# Ignorar mundos locales y carpetas de progreso de los testers
+minecraft/saves/
+minecraft/screenshots/
+
+# Ignorar reportes de errores y logs pesados
+minecraft/logs/
+minecraft/crash-reports/
+
+# Ignorar archivos temporales de caché del juego y del launcher
+minecraft/webcache/
+minecraft/usernamecache.json
+minecraft/usercache.json
+minecraft/*.dat
+minecraft/*.lck
+
+# Opcional: Ignorar texturas o shaders si no los vas a incluir en el peso base
+# minecraft/resourcepacks/
+# minecraft/shaderpacks/

@@ -1,0 +1,25 @@
+filename = 'NetherChested-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Nether Chested'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] NetherChested-v21.1.1'
+
+[download]
+hash = '17b325cbc2a474ab08148d2b9932dd8e9fc12646'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7255815
+project-id = 857971
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'

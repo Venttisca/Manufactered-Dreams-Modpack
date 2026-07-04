@@ -1,0 +1,21 @@
+filename = 'shellbound_for_airship-1.0.0-neoforge.jar'
+name = 'ShellBound for AirShip'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'shellbound_for_airship-1.0.0.jar'
+
+[download]
+hash = '4b4eda51698af682da9d8c05a7bba4fd1e1bc298'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7689536
+project-id = 1470681
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

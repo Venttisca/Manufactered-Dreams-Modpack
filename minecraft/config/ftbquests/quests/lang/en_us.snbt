@@ -1,0 +1,359 @@
+{
+	chapter.0B412E60DD1B129A.title: " Deep Seas"
+	chapter.297BA7905CCDF674.title: "Create Aeronautics"
+	chapter.45EAD17E4F77A62B.title: " Propulsion"
+	chapter.57BDD6C4C13DA67D.title: " Toolgun"
+	chapter.5948749BE6C55465.title: " Aeroworks"
+	chapter.5C3FF9D1ECAC4860.title: " Create Aeronautics"
+	chapter.714BED084D92B8FB.title: " Welcome"
+	chapter.765D19CDE84B954C.title: " Dyeable Components"
+	file.0000000000000001.title: " Create Aeronautics: Skybound"
+	quest.00F44F4FA88A59F9.quest_desc: ["Link it to a Rope Connector with a Rope Coupling. Given rotational force, it extends or retracts the attached rope."]
+	quest.00F44F4FA88A59F9.quest_subtitle: "The Rope Winch reels rope in and out."
+	quest.0251560FBD2D0D1B.quest_desc: ["A redstone signal (0-15) is output per direction the stick is tilted towards. For simplicity, the joystick outputs the redstone signal on configurable redstone link frequencies. An extra button is provided for extra controllability."]
+	quest.0251560FBD2D0D1B.quest_subtitle: "The Joystick allows you to control your ship along 2 axes."
+	quest.03CB4B44E73A22B3.quest_desc: ["Configure a minimum and maximum range: links within the minimum read at full strength, those beyond the maximum read nothing, and those in between scale with distance."]
+	quest.03CB4B44E73A22B3.quest_subtitle: "The Modulating Linked Receiver senses the distance to Redstone Links."
+	quest.045FBC3A653F7687.quest_desc: ["It passes rotation up to a set angle, then springs back to its start when the input stops. Redstone holds it in place, and the angle limit is configurable."]
+	quest.045FBC3A653F7687.quest_subtitle: "The Torsion Spring relays rotation within an angle limit."
+	quest.053FDD5AD459D89A.quest_desc: ["It attaches to the block in front of it and turns any structure with at least two sail-like blocks into a propeller. More sails mean more thrust."]
+	quest.053FDD5AD459D89A.quest_subtitle: "The Propeller Bearing spins a propeller to make thrust."
+	quest.05674EC2F9DCA5B9.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with pink dye to make it."]
+	quest.05674EC2F9DCA5B9.quest_subtitle: "A Pink-dyed Large Tire."
+	quest.05C1F9477895F68A.quest_desc: ["It behaves exactly like Levitite. Make it by holding blue dye in your offhand while crystallizing Levitite Blend."]
+	quest.05C1F9477895F68A.quest_subtitle: "A Blue-dyed variant of Levitite."
+	quest.066D922BF446DAC2.quest_desc: ["It converts Coral fluid into Forge Energy, outputting power from its top and bottom faces."]
+	quest.066D922BF446DAC2.quest_subtitle: "The Coral Generator makes power from Coral fluid."
+	quest.074A4F5C89155D9C.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with pink dye to make it."]
+	quest.074A4F5C89155D9C.quest_subtitle: "A Pink-dyed Tire."
+	quest.07BE6D0CE9B587AA.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with blue dye to make it."]
+	quest.07BE6D0CE9B587AA.quest_subtitle: "A Blue-dyed Tire."
+	quest.07CD69D9A4712343.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with orange dye to make it."]
+	quest.07CD69D9A4712343.quest_subtitle: "An Orange-dyed Large Tire."
+	quest.0840C62E91BAD7FE.quest_desc: ["Bind keyboard keys to Redstone Link frequencies to control many links at once. While active it takes over your movement keys and any bound keys."]
+	quest.0840C62E91BAD7FE.quest_subtitle: "The Linked Typewriter binds keys to Redstone Link frequencies."
+	quest.0899F1A317DE5D5C.quest_desc: ["It lets a submarine float and can be filled with water using a Ballast Vent. Its capacity can be checked with Create's Engineer's Goggles."]
+	quest.0899F1A317DE5D5C.quest_subtitle: "The Ballast Tank controls a submarine's buoyancy."
+	quest.08C5D49B7352385A.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with green dye to make it."]
+	quest.08C5D49B7352385A.quest_subtitle: "A Green-dyed Tire."
+	quest.09197DD41E190CC2.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with brown dye to make it."]
+	quest.09197DD41E190CC2.quest_subtitle: "A Brown-dyed Monstrous Tire."
+	quest.094E094CAF723F38.quest_desc: ["It attaches to the block in front of it and assembles glued blocks into a Simulated Contraption when powered. Rotation passes straight through it, and redstone can unlock it to spin freely."]
+	quest.094E094CAF723F38.quest_subtitle: "The Swivel Bearing assembles a contraption that can spin."
+	quest.0A93FEE51028A7ED.quest_desc: ["It behaves exactly like Levitite. Make it by holding orange dye in your offhand while crystallizing Levitite Blend."]
+	quest.0A93FEE51028A7ED.quest_subtitle: "An Orange-dyed variant of Levitite."
+	quest.0CCF10D10F894B7A.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with gray dye to make it."]
+	quest.0CCF10D10F894B7A.quest_subtitle: "A Gray-dyed Large Tire."
+	quest.0D701C18E51413C8.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with orange dye to make it."]
+	quest.0D701C18E51413C8.quest_subtitle: "An Orange-dyed Monstrous Tire."
+	quest.0D84377B8557480E.quest_desc: ["Right-click a Simulated Contraption with it to see a visual diagram of its mass, center of mass and the forces acting on it."]
+	quest.0D84377B8557480E.quest_subtitle: "The Contraption Diagram reveals the forces on your craft."
+	quest.0DE6BF03E14CC2B0.quest_desc: ["It uses pressurized water and kinetic energy to generate thrust. The more pressure and speed you give it, the faster you go."]
+	quest.0DE6BF03E14CC2B0.quest_subtitle: "The Water Thruster pushes your submarine through the sea."
+	quest.0E78B1230C3C72FF.quest_desc: ["Right-click and drag to set its redstone output precisely. A wrench inverts the signal."]
+	quest.0E78B1230C3C72FF.quest_subtitle: "The Throttle Lever is a compact analog power source."
+	quest.110ECA0EC95029E6.quest_desc: ["Aeroworks bundles handy control and stabilization blocks for your aircraft, such as the Gyroscope and the Joystick."]
+	quest.110ECA0EC95029E6.quest_subtitle: "A collection of addons for Create Aeronautics with blocks such as the gyroscope, joystick, and more!"
+	quest.128AA441B49ADCA8.quest_desc: ["A directional thruster that can also yaw and pitch to vector thrust for steering. Each side accepts a redstone signal that tilts it toward that direction."]
+	quest.128AA441B49ADCA8.quest_subtitle: "The Vector Thruster can aim its thrust."
+	quest.1339E01691579FC0.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with pink dye to make it."]
+	quest.1339E01691579FC0.quest_subtitle: "A Pink-dyed Small Tire."
+	quest.1345BAD71D0CBBEA.quest_desc: ["Supply it with water and Forge Energy (FE) to produce oxygen. It can be powered by Create: Crafts \\& Additions, New Age or Power Grid."]
+	quest.1345BAD71D0CBBEA.quest_subtitle: "The Electrolyzer turns water into oxygen."
+	quest.138498F781268701.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with brown dye to make it."]
+	quest.138498F781268701.quest_subtitle: "A Brown-dyed Tire."
+	quest.1556C1785FEBF54B.quest_desc: ["It behaves exactly like Levitite. Make it by holding gray dye in your offhand while crystallizing Levitite Blend."]
+	quest.1556C1785FEBF54B.quest_subtitle: "A Gray-dyed variant of Levitite."
+	quest.16EDF4808ED3BCDB.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with lime dye to make it."]
+	quest.16EDF4808ED3BCDB.quest_subtitle: "A Lime-dyed Large Tire."
+	quest.17E782AB29435F2A.quest_desc: ["Throw it to plant a rope anchor at a target spot, letting you string ropes across a gap. It relies on Create Simulated for its rope connections."]
+	quest.17E782AB29435F2A.quest_subtitle: "Throw a rope anchor to a distant point."
+	quest.18594A0013B696D4.quest_desc: ["It outputs a redstone signal based on orientation, emitted downhill by default. Each axis works independently, and the angle of maximum signal is configurable."]
+	quest.18594A0013B696D4.quest_subtitle: "The Gimbal Sensor reads your craft's tilt."
+	quest.1978F486110CBC58.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with cyan dye to make it."]
+	quest.1978F486110CBC58.quest_subtitle: "A Cyan-dyed Large Tire."
+	quest.1A3C7EB8A16B244C.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with red dye to make it."]
+	quest.1A3C7EB8A16B244C.quest_subtitle: "A Red-dyed Monstrous Tire."
+	quest.1AE7D3151046ACB2.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with orange dye to make it."]
+	quest.1AE7D3151046ACB2.quest_subtitle: "An Orange-dyed Small Tire."
+	quest.1CC06C4B4C26D8EB.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with red dye to make it."]
+	quest.1CC06C4B4C26D8EB.quest_subtitle: "A Red-dyed Tire."
+	quest.1F6F077E5A84C184.quest_desc: ["It behaves exactly like Levitite. Make it by holding light blue dye in your offhand while crystallizing Levitite Blend."]
+	quest.1F6F077E5A84C184.quest_subtitle: "A Light Blue-dyed variant of Levitite."
+	quest.1FEFD4A091122E0C.quest_desc: ["Spin them with rotational force to produce FE for blocks like the Calibrated Thruster - the faster the RPM, the more FE they make. The Industrial Generator is the higher-output version."]
+	quest.1FEFD4A091122E0C.quest_subtitle: "Generators turn rotation into Forge Energy."
+	quest.2098CA328801A7A3.quest_desc: ["Holds a captured physical craft so you can carry it and print it back into the world later."]
+	quest.2098CA328801A7A3.quest_subtitle: "The Portable Structure Container stores a craft as a portable blueprint."
+	quest.20E81D9330FA1564.quest_desc: ["These blocks let your Simulated Contraption sense the world and respond to your commands - sensors, transmissions and control inputs."]
+	quest.20E81D9330FA1564.title: "Navigation"
+	quest.21C1B82822A265E6.quest_desc: ["Give it a redstone signal to release oxygen produced by an Electrolyzer. It consumes more oxygen the larger the submarine is."]
+	quest.21C1B82822A265E6.quest_subtitle: "The Oxygen Diffuser keeps the inside of your submarine breathable."
+	quest.22B2AE9DDBBC5079.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with purple dye to make it."]
+	quest.22B2AE9DDBBC5079.quest_subtitle: "A Purple-dyed Small Tire."
+	quest.23C4D2DA6DEB2D9A.quest_desc: ["It behaves exactly like Levitite. Make it by holding lime dye in your offhand while crystallizing Levitite Blend."]
+	quest.23C4D2DA6DEB2D9A.quest_subtitle: "A Lime-dyed variant of Levitite."
+	quest.251A6CA0F0E72812.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with white dye to make it."]
+	quest.251A6CA0F0E72812.quest_subtitle: "A White-dyed Small Tire."
+	quest.251ED9DA3DE04C84.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with black dye to make it."]
+	quest.251ED9DA3DE04C84.quest_subtitle: "A Black-dyed Monstrous Tire."
+	quest.25B581A958F22442.quest_desc: ["It emits redstone when its beam hits a block, with strength based on distance. Apply a filter so only matching blocks trigger it."]
+	quest.25B581A958F22442.quest_subtitle: "The Optical Sensor detects blocks in front of it."
+	quest.27CF01E530CC4280.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with cyan dye to make it."]
+	quest.27CF01E530CC4280.quest_subtitle: "A Cyan-dyed Tire."
+	quest.291911E6EC50FEFC.quest_desc: ["A magnetic field gun used to grab, move and reposition Aeronautics physical structures."]
+	quest.291911E6EC50FEFC.quest_subtitle: "The Magnetic Gun manipulates physical craft from a distance."
+	quest.2A16B58B805EAA44.quest_desc: ["Place it with a shaft above spinning at least 30 RPM and a Navigation Table below. Insert a Navigation Compass and it outputs a redstone signal based on the distance to the target, while passing the compass down to the table."]
+	quest.2A16B58B805EAA44.quest_subtitle: "The Navigation Tracker reads how far you are from a target."
+	quest.2C00F0070ACC0D49.quest_desc: ["It works like a Copper Fluid Tank, but holds double the fluid per block."]
+	quest.2C00F0070ACC0D49.quest_subtitle: "The Platinum Fluid Tank stores fluids in bulk."
+	quest.2C224C8A4945C10E.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with yellow dye to make it."]
+	quest.2C224C8A4945C10E.quest_subtitle: "A Yellow-dyed Small Tire."
+	quest.2C50E0D12250E1A5.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with light blue dye to make it."]
+	quest.2C50E0D12250E1A5.quest_subtitle: "A Light Blue-dyed Monstrous Tire."
+	quest.2C51DD06F3E9AA06.quest_desc: ["Create Deep Seas (also known as Create Submarine) expands on the systems of Create and the Sable physics engine to enable players to build, pilot, and survive in fully functional, physics-based submarines."]
+	quest.2C51DD06F3E9AA06.quest_subtitle: "Submarine in Create Aeronautics!"
+	quest.2CF12EE122D19969.quest_desc: ["It receives nearby Redstone Links most strongly when they are directly in front; a shallower angle gives a weaker signal, and links behind it are ignored."]
+	quest.2CF12EE122D19969.quest_subtitle: "The Directional Linked Receiver senses the angle to Redstone Links."
+	quest.2D6FF740F5A6A951.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with red dye to make it."]
+	quest.2D6FF740F5A6A951.quest_subtitle: "A Red-dyed Small Tire."
+	quest.2D70F503EA6F2994.quest_desc: ["Mount them on a Propeller Bearing to generate thrust. Wooden and Andesite Propellers are the basic, craftable options."]
+	quest.2D70F503EA6F2994.quest_subtitle: "Propellers are the blades that catch the air for thrust."
+	quest.2EEBDC974094D856.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with light blue dye to make it."]
+	quest.2EEBDC974094D856.quest_subtitle: "A Light Blue-dyed Small Tire."
+	quest.2F7C30CFCD7A1215.quest_desc: ["A powered Laser Pointer emits a beam, and a Laser Sensor detects it and outputs redstone. Apply a filter so only matching colors trigger it."]
+	quest.2F7C30CFCD7A1215.quest_subtitle: "Laser Pointers and Sensors send signals across a beam."
+	quest.30AE6897560E6C83.quest_desc: ["On a moving contraption they produce drag for turning and stability, and attach to each other without glue - handy for building windmills. Right-click with dye to paint them."]
+	quest.30AE6897560E6C83.quest_subtitle: "Symmetric Sails act as drag surfaces and windmill blades."
+	quest.30CE22AC51635FE5.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with black dye to make it."]
+	quest.30CE22AC51635FE5.quest_subtitle: "A Black-dyed Small Tire."
+	quest.322ED3D5037ACE11.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with yellow dye to make it."]
+	quest.322ED3D5037ACE11.quest_subtitle: "A Yellow-dyed Monstrous Tire."
+	quest.326F7E4191A3B586.quest_desc: ["Right-click it onto a Wheel Mount to roll across the ground. Craft it together with a dye to make one of 16 colored variants."]
+	quest.326F7E4191A3B586.quest_subtitle: "The Monstrous Tire, a monstrously large all-terrain wheel."
+	quest.3308C9FB157052BF.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with white dye to make it."]
+	quest.3308C9FB157052BF.quest_subtitle: "A White-dyed Monstrous Tire."
+	quest.337A6F12AA7787A7.quest_desc: ["It behaves exactly like Levitite. Make it by holding white dye in your offhand while crystallizing Levitite Blend."]
+	quest.337A6F12AA7787A7.quest_subtitle: "A White-dyed variant of Levitite."
+	quest.33FD60BF45473C41.quest_desc: ["When enough Levitite is attached to a contraption it keeps it aloft, though it can't gain altitude alone. Hold a dye in your offhand while crystallizing Levitite Blend to make a colored variant."]
+	quest.33FD60BF45473C41.quest_subtitle: "Levitite keeps Simulated Contraptions afloat."
+	quest.340E8841095673AD.quest_desc: ["It provides directional thrust when powered by redstone and supplied with Forge Energy (FE)."]
+	quest.340E8841095673AD.quest_subtitle: "The Ion Thruster runs on electricity instead of fuel."
+	quest.345621C5B198C54D.quest_desc: ["It disguises itself as any block you apply to it, and unlike regular facades it survives Create contraption and physics ship assembly. A Directional Cover variant is also available."]
+	quest.345621C5B198C54D.quest_subtitle: "The Cover is a facade that survives assembly."
+	quest.369A7E3794430DC4.quest_desc: ["Right-click it onto a Wheel Mount to roll across the ground. Craft it together with a dye to make one of 16 colored variants."]
+	quest.369A7E3794430DC4.quest_subtitle: "The Small Tire, the most compact all-terrain wheel."
+	quest.37C182DB7AFC5A18.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with light gray dye to make it."]
+	quest.37C182DB7AFC5A18.quest_subtitle: "A Light Gray-dyed Large Tire."
+	quest.385C311DDF5493DD.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with cyan dye to make it."]
+	quest.385C311DDF5493DD.quest_subtitle: "A Cyan-dyed Small Tire."
+	quest.38EC378844976A93.quest_desc: ["While worn, kinetic components show their stress and capacity, and many blocks reveal extra data such as their contents."]
+	quest.38EC378844976A93.quest_subtitle: "Aviator's Goggles add useful info to your HUD."
+	quest.39E3C2D99DD35934.quest_desc: ["A lightweight copycat sail for contraptions: place it, then apply another block to copy that block's material and appearance."]
+	quest.39E3C2D99DD35934.quest_subtitle: "The Copycat Wing is a sail block that borrows any look."
+	quest.3B5D4F93B2DFF4CC.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with purple dye to make it."]
+	quest.3B5D4F93B2DFF4CC.quest_subtitle: "A Purple-dyed Monstrous Tire."
+	quest.3BEDE46A6B0D3C28.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with purple dye to make it."]
+	quest.3BEDE46A6B0D3C28.quest_subtitle: "A Purple-dyed Tire."
+	quest.3E26F6522B3D3E58.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with green dye to make it."]
+	quest.3E26F6522B3D3E58.quest_subtitle: "A Green-dyed Monstrous Tire."
+	quest.3E68A212BCC5641E.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with green dye to make it."]
+	quest.3E68A212BCC5641E.quest_subtitle: "A Green-dyed Large Tire."
+	quest.3EC84EB6EA2E0FDC.quest_desc: ["Right-click a tire onto a Wheel Mount to fit it. They come in Small, standard, Large and Monstrous sizes for any terrain."]
+	quest.3EC84EB6EA2E0FDC.quest_subtitle: "Tires let your contraption drive across the ground."
+	quest.3EE264726A5354CC.quest_desc: ["Lets you save, print and delete physical craft in survival mode - the core of the toolgun blueprint workflow."]
+	quest.3EE264726A5354CC.quest_subtitle: "The Survival Structure Tool is the survival-friendly toolgun."
+	quest.4058BCBC7493D7BB.quest_desc: ["A convenient alternative to Super Glue: click two points to make a glued area, then assemble. Unlike Super Glue, it only attaches to Simulated Contraptions."]
+	quest.4058BCBC7493D7BB.quest_subtitle: "Honey Glue groups blocks for Simulated Contraptions."
+	quest.40EFF12F6BD08A28.quest_desc: ["It behaves exactly like Levitite. Make it by holding magenta dye in your offhand while crystallizing Levitite Blend."]
+	quest.40EFF12F6BD08A28.quest_subtitle: "A Magenta-dyed variant of Levitite."
+	quest.40FB7ECF967AE45A.quest_desc: ["Unpowered it acts like an encased cogwheel; a redstone signal changes the gear ratio, and full signal lets the shaft and cogwheel spin independently."]
+	quest.40FB7ECF967AE45A.quest_subtitle: "The Analog Transmission gears rotation with redstone."
+	quest.427CB698EA6AB226.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with gray dye to make it."]
+	quest.427CB698EA6AB226.quest_subtitle: "A Gray-dyed Tire."
+	quest.42A7F6375FDC57BD.quest_desc: ["It behaves exactly like Levitite. Make it by holding black dye in your offhand while crystallizing Levitite Blend."]
+	quest.42A7F6375FDC57BD.quest_subtitle: "A Black-dyed variant of Levitite."
+	quest.43079D90150A1845.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with magenta dye to make it."]
+	quest.43079D90150A1845.quest_subtitle: "A Magenta-dyed Tire."
+	quest.43A313839B7A6D00.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with blue dye to make it."]
+	quest.43A313839B7A6D00.quest_subtitle: "A Blue-dyed Large Tire."
+	quest.43CBA06DCCAC3A8A.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with magenta dye to make it."]
+	quest.43CBA06DCCAC3A8A.quest_subtitle: "A Magenta-dyed Small Tire."
+	quest.43FAF8E191552C9E.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with lime dye to make it."]
+	quest.43FAF8E191552C9E.quest_subtitle: "A Lime-dyed Small Tire."
+	quest.4446C9E3387287A9.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with lime dye to make it."]
+	quest.4446C9E3387287A9.quest_subtitle: "A Lime-dyed Tire."
+	quest.445EC4706FBE3A4A.quest_desc: ["It converts an incoming redstone signal strength into a configurable redstone output signal."]
+	quest.445EC4706FBE3A4A.quest_subtitle: "The Redstone Converter remaps signal strength."
+	quest.4474950744B2A197.quest_desc: ["Create Aeronautics: Toolgun is an expansion mod aimed at bringing a VMod-like engineering workflow into the Create Aeronautics vehicle environment, while being specifically adapted and extended around Aeronautics physical structures."]
+	quest.4474950744B2A197.quest_subtitle: "A Create Aeronautics tool expansion that adds a toolgun-style blueprint system and magnetic field guns for saving, printing, deleting, and manipulating physical craft."
+	quest.4474950744B2A197.title: "Create Aeronautics: Toolgun"
+	quest.449B33FFDD357065.quest_desc: ["It behaves exactly like Levitite. Make it by holding yellow dye in your offhand while crystallizing Levitite Blend."]
+	quest.449B33FFDD357065.quest_subtitle: "A Yellow-dyed variant of Levitite."
+	quest.45EF93C539B4689C.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with yellow dye to make it."]
+	quest.45EF93C539B4689C.quest_subtitle: "A Yellow-dyed Tire."
+	quest.461E3EE93322116C.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with cyan dye to make it."]
+	quest.461E3EE93322116C.quest_subtitle: "A Cyan-dyed Monstrous Tire."
+	quest.474804E4154F2C34.quest_desc: ["Supply it with FE from a Generator, then give it a redstone signal to fire it up. Right-click it with an Ionized Thermal Mechanism to upgrade it to soul fire for more thrust, at double the power cost."]
+	quest.474804E4154F2C34.quest_subtitle: "The Calibrated Thruster pushes your craft using electrical power."
+	quest.47B1FE98C581834D.quest_desc: ["Right-click it onto a Wheel Mount to roll across the ground. Craft it together with a dye to make one of 16 colored variants."]
+	quest.47B1FE98C581834D.quest_subtitle: "The Tire, a standard all-terrain wheel."
+	quest.488574695C845D32.quest_desc: ["It consumes valid liquid fuels to produce heat and can pass fluid through while running. It also supports redstone thermostat control."]
+	quest.488574695C845D32.quest_subtitle: "The Liquid Burner makes heat from liquid fuel."
+	quest.4AA6E52423B4A264.quest_desc: ["Powered magnets pull on or push away other magnets - opposite poles attract, like poles repel, and attracting magnets try to align."]
+	quest.4AA6E52423B4A264.quest_subtitle: "Redstone Magnets attract and repel each other."
+	quest.4AEAEBF9EC825F7B.quest_desc: ["In Direct mode the input signal maps straight to the output ratio; in Incremental mode each pulse shifts the ratio step by step."]
+	quest.4AEAEBF9EC825F7B.quest_subtitle: "The Redstone Transmission gears rotation with redstone."
+	quest.4C8DDA689FE8369D.quest_desc: ["Cast it into a mold and apply heat to crystallize it into solid Levitite. Once the reaction starts it spreads through the whole fluid and can't be recollected."]
+	quest.4C8DDA689FE8369D.quest_subtitle: "Levitite Blend is the liquid that crystallizes into Levitite."
+	quest.4C900E5C7D80C67F.quest_desc: ["Heat it from below with a Burner and it generates rotational force. Remove the heat and it winds down."]
+	quest.4C900E5C7D80C67F.quest_subtitle: "The Stirling Engine turns heat into rotation."
+	quest.4CD565A8B60FF798.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with magenta dye to make it."]
+	quest.4CD565A8B60FF798.quest_subtitle: "A Magenta-dyed Large Tire."
+	quest.4CD822763FCBF7EF.quest_desc: ["It outputs a redstone signal based on speed along its facing axis. The value box sets the speed for maximum signal, and the output side can be flipped."]
+	quest.4CD822763FCBF7EF.quest_subtitle: "The Velocity Sensor reads how fast your craft is moving."
+	quest.4ECDD706A12D0B55.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with black dye to make it."]
+	quest.4ECDD706A12D0B55.quest_subtitle: "A Black-dyed Large Tire."
+	quest.4F19053A36114341.quest_desc: ["It tilts its rotational output based on an analog redstone signal - a stronger signal on one side tilts it further that way."]
+	quest.4F19053A36114341.quest_subtitle: "The Tilt Adapter angles rotation with redstone."
+	quest.4FEFB2F08A61A1D6.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with brown dye to make it."]
+	quest.4FEFB2F08A61A1D6.quest_subtitle: "A Brown-dyed Small Tire."
+	quest.500FA9792456C013.quest_desc: ["Glue a group of blocks together with Super Glue or Honey Glue, then hold right-click and pull the lever to assemble them into a physics-driven contraption. Any assembler can disassemble it later."]
+	quest.500FA9792456C013.quest_subtitle: "The Physics Assembler is the heart of every Simulated Contraption."
+	quest.50581515CDE49180.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with brown dye to make it."]
+	quest.50581515CDE49180.quest_subtitle: "A Brown-dyed Large Tire."
+	quest.512C2F38D9309C6E.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with light gray dye to make it."]
+	quest.512C2F38D9309C6E.quest_subtitle: "A Light Gray-dyed Monstrous Tire."
+	quest.513D5B47A7AE1492.quest_desc: ["Right-click it onto a Wheel Mount to roll across the ground. Craft it together with a dye to make one of 16 colored variants."]
+	quest.513D5B47A7AE1492.quest_subtitle: "The Large Tire, a big all-terrain wheel."
+	quest.5287D9F564797135.quest_desc: ["It generates thrust when spun and automatically pitches along one axis to point up. Right-click with a wrench to reverse its thrust."]
+	quest.5287D9F564797135.quest_subtitle: "The Smart Propeller pitches itself to face upward."
+	quest.52A593D191365A78.quest_desc: ["Place it on a sub-level (a ship or aircraft) and use its GUI to claim the whole structure. Add more Aero-claims to cover a larger build, and set permissions for parties, allies or everyone."]
+	quest.52A593D191365A78.quest_subtitle: "The Claim Block protects a sub-level from others."
+	quest.55239B8751A3080F.quest_desc: ["A sturdy casing made from platinum, used to craft and encase Propulsion machinery."]
+	quest.55239B8751A3080F.quest_subtitle: "Platinum Casing, Propulsion's machine casing."
+	quest.55DBEABEF5174219.quest_desc: ["It adds rocket-style thrusters, wings, burners and fuel systems so you can power and steer your craft with raw thrust."]
+	quest.55DBEABEF5174219.quest_subtitle: "Create Propulsion: Simulated is a NeoForge addon for Minecraft 1.21.1 that brings propulsion-focused Create gameplay to the Sable + Create Aeronautics ecosystem."
+	quest.55DBEABEF5174219.title: "Create Propulsion: Simulated"
+	quest.5628479EB6BB2EBF.quest_desc: ["It behaves exactly like Levitite. Make it by holding brown dye in your offhand while crystallizing Levitite Blend."]
+	quest.5628479EB6BB2EBF.quest_subtitle: "A Brown-dyed variant of Levitite."
+	quest.566E38B30F4AE69F.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with light blue dye to make it."]
+	quest.566E38B30F4AE69F.quest_subtitle: "A Light Blue-dyed Tire."
+	quest.56964EE9BF575F80.quest_desc: ["It needs rotational force and must be piped to the ballast tanks, with at least one face touching the sea. Reverse the rotation to switch to Drain Mode and push water back out."]
+	quest.56964EE9BF575F80.quest_subtitle: "The Ballast Vent floods and drains your ballast tanks."
+	quest.5760BF287EEB0C0E.quest_desc: ["It behaves exactly like Levitite. Make it by holding purple dye in your offhand while crystallizing Levitite Blend."]
+	quest.5760BF287EEB0C0E.quest_subtitle: "A Purple-dyed variant of Levitite."
+	quest.57D7693005A610F0.quest_desc: ["It burns solid fuel to heat the machine above it, such as a Stirling Engine, and supports a redstone thermostat override."]
+	quest.57D7693005A610F0.quest_subtitle: "The Solid Burner makes heat from solid fuel."
+	quest.58E158C8F2C04BEB.quest_desc: ["Levitite Blend crystallizes into Levitite when heated. When enough Levitite is attached to a contraption it keeps it afloat, though it can't climb on its own."]
+	quest.58E158C8F2C04BEB.quest_subtitle: "Crystallize Levitite Blend into solid Levitite."
+	quest.599CBC177D3D745D.quest_desc: ["Right-click a Rope Winch and a Rope Connector with it to attach them with rope. Shears remove the rope again."]
+	quest.599CBC177D3D745D.quest_subtitle: "The Rope Coupling ties rope connections together."
+	quest.59AB803FFC868FFC.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with black dye to make it."]
+	quest.59AB803FFC868FFC.quest_subtitle: "A Black-dyed Tire."
+	quest.5B50E0BA87CF1BDC.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with white dye to make it."]
+	quest.5B50E0BA87CF1BDC.quest_subtitle: "A White-dyed Large Tire."
+	quest.5C6E945F38EA9846.quest_desc: ["It mounts wheel-like items so your craft can roll. Power it from the top to brake, or from a side to steer toward that side."]
+	quest.5C6E945F38EA9846.quest_subtitle: "The Wheel Mount holds tires for ground travel."
+	quest.5CE5CD23C00E3F04.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with light blue dye to make it."]
+	quest.5CE5CD23C00E3F04.quest_subtitle: "A Light Blue-dyed Large Tire."
+	quest.5D745773CEA7E388.quest_desc: ["Unlike drills they break a whole area around themselves, and snap onto blocks and each other without glue. Mount them on a Borehead Bearing to dig."]
+	quest.5D745773CEA7E388.quest_subtitle: "Rock Cutting Wheels carve through terrain on a Borehead Bearing."
+	quest.5D851AA005725F11.quest_desc: ["Smelted from Platinum Ore, it is used to craft Propulsion's machines and casings."]
+	quest.5D851AA005725F11.quest_subtitle: "Platinum Ingot, the base metal of Propulsion."
+	quest.5DC411437882B19D.quest_desc: ["Mount and ride it, then left-click to fire a rope connector at a target and right-click to remove the rope. Load it with Throwable Rope Connectors as ammo."]
+	quest.5DC411437882B19D.quest_subtitle: "A mounted launcher that fires rope anchors."
+	quest.5DCE62E32B5099CA.quest_desc: ["It behaves exactly like Levitite. Make it by holding green dye in your offhand while crystallizing Levitite Blend."]
+	quest.5DCE62E32B5099CA.quest_subtitle: "A Green-dyed variant of Levitite."
+	quest.5E051237C5E852FB.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with pink dye to make it."]
+	quest.5E051237C5E852FB.quest_subtitle: "A Pink-dyed Monstrous Tire."
+	quest.5F76EA2FEC505EAE.quest_desc: ["It behaves exactly like Levitite. Make it by holding light gray dye in your offhand while crystallizing Levitite Blend."]
+	quest.5F76EA2FEC505EAE.quest_subtitle: "A Light Gray-dyed variant of Levitite."
+	quest.6073B047C7B98625.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with red dye to make it."]
+	quest.6073B047C7B98625.quest_subtitle: "A Red-dyed Large Tire."
+	quest.607F881A2C2B5F97.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with gray dye to make it."]
+	quest.607F881A2C2B5F97.quest_subtitle: "A Gray-dyed Small Tire."
+	quest.6142979F2E5E54E5.quest_desc: ["Powered by the Sable physics engine, Create Aeronautics lets you assemble real, physics-driven airships and vehicles. This chapter walks through the blocks that make them fly."]
+	quest.6142979F2E5E54E5.quest_subtitle: "Build and pilot physics-based aircraft with Create Aeronautics."
+	quest.6262A1BE2DF8FFA1.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with blue dye to make it."]
+	quest.6262A1BE2DF8FFA1.quest_subtitle: "A Blue-dyed Small Tire."
+	quest.63279EB782F2752F.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with magenta dye to make it."]
+	quest.63279EB782F2752F.quest_subtitle: "A Magenta-dyed Monstrous Tire."
+	quest.654FBC78D1C3B35D.quest_desc: ["It outputs a redstone signal based on elevation. Set the minimum and maximum altitude in its UI, and read exact height and air pressure with Engineer's Goggles."]
+	quest.654FBC78D1C3B35D.quest_subtitle: "The Altitude Sensor reads your height and air pressure."
+	quest.65715BCC3BF025C1.quest_desc: ["Power it with redstone to fill the Envelope above with hot air. The input panel sets the maximum output, and several burners can share one balloon."]
+	quest.65715BCC3BF025C1.quest_subtitle: "The Hot Air Burner fills balloons with lift."
+	quest.675A9530C02D7A94.quest_desc: ["Unpowered it stops relaying rotation; power the straight side to relay it, the reverse side to flip it, or both sides to stop."]
+	quest.675A9530C02D7A94.quest_subtitle: "The Directional Gearshift controls rotation direction with redstone."
+	quest.677DFEE3535D5FB5.quest_desc: ["Run cables to move FE around your build. Place the first set with a Cable Spool."]
+	quest.677DFEE3535D5FB5.quest_subtitle: "Cables carry Forge Energy between machines."
+	quest.6887C6B7ED8727B3.quest_desc: ["They enclose a volume that generates lift when filled with hot air, which must be sealed in by airtight blocks. Right-click with dye to recolor them."]
+	quest.6887C6B7ED8727B3.quest_subtitle: "Envelope Blocks form the balloon that lifts your craft."
+	quest.6A891A299CB4627F.quest_desc: ["Power it with redstone and feed it Turpentine through a pipe to push your craft. Its throttle scales with the redstone signal."]
+	quest.6A891A299CB4627F.quest_subtitle: "The Thruster provides raw directional thrust."
+	quest.6BC833A2D916A0DC.quest_desc: ["A pair extend, align and lock into a rigid connection that still keeps both sides independent. Once docked, items and fluids can pass between them."]
+	quest.6BC833A2D916A0DC.quest_subtitle: "Docking Connectors lock two contraptions together."
+	quest.6DE61A1D5AEE2153.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with white dye to make it."]
+	quest.6DE61A1D5AEE2153.quest_subtitle: "A White-dyed Tire."
+	quest.6E033C8BD4724C99.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with blue dye to make it."]
+	quest.6E033C8BD4724C99.quest_subtitle: "A Blue-dyed Monstrous Tire."
+	quest.6E14453ED3BE0EE0.quest_desc: ["Pump it into Thrusters to keep them firing. Hold Shift to preview thrust and burn rate."]
+	quest.6E14453ED3BE0EE0.quest_subtitle: "Turpentine is the fuel that powers Thrusters."
+	quest.6E1BE7174F44D650.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with light gray dye to make it."]
+	quest.6E1BE7174F44D650.quest_subtitle: "A Light Gray-dyed Tire."
+	quest.6EA6C44A8FBFCFD9.quest_desc: ["It behaves exactly like Levitite. Make it by holding cyan dye in your offhand while crystallizing Levitite Blend."]
+	quest.6EA6C44A8FBFCFD9.quest_subtitle: "A Cyan-dyed variant of Levitite."
+	quest.6FB3B725E195FEAC.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with green dye to make it."]
+	quest.6FB3B725E195FEAC.quest_subtitle: "A Green-dyed Small Tire."
+	quest.705C8ABB2339A5D5.quest_desc: ["Hold right-click and move the mouse to turn it, or sneak to snap to 45 degree steps. The maximum turning angle is configurable and comparators can read its position."]
+	quest.705C8ABB2339A5D5.quest_subtitle: "The Steering Wheel gives precise, hands-on rotation."
+	quest.7157002074776C07.quest_desc: ["Give it a Navigation Item and it emits a redstone signal toward that target, weaker when you aren't facing it directly."]
+	quest.7157002074776C07.quest_subtitle: "The Navigation Table points you toward a destination."
+	quest.72243D5F4B43912B.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with yellow dye to make it."]
+	quest.72243D5F4B43912B.quest_subtitle: "A Yellow-dyed Large Tire."
+	quest.7283D2C2EED00F55.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with gray dye to make it."]
+	quest.7283D2C2EED00F55.quest_subtitle: "A Gray-dyed Monstrous Tire."
+	quest.74AD9C3B54878FDB.quest_desc: ["Ideal for helicopters: it tilts the propeller to face upward and stabilize the craft. A redstone signal resets the tilt to zero."]
+	quest.74AD9C3B54878FDB.quest_subtitle: "A Propeller Bearing that keeps its propeller pointing up."
+	quest.74B9BA10EBDCAF89.quest_desc: ["Mount one anywhere on your contraption and supply it with rotational energy. The gyroscope stabilization scales with input RPM. Multiple gyroscopes can be used to stabilize larger ships!"]
+	quest.74B9BA10EBDCAF89.quest_subtitle: "The Gyroscope is a spinning flywheel that stabilizes your ship upwards."
+	quest.766261AFB8BCC811.quest_desc: ["Place Wings to shape aerodynamic surfaces. Tempered Wings are the stronger, upgraded version."]
+	quest.766261AFB8BCC811.quest_subtitle: "Wings give your craft lift and control surfaces."
+	quest.7758A4AE497B0696.quest_desc: ["It behaves exactly like Levitite. Make it by holding pink dye in your offhand while crystallizing Levitite Blend."]
+	quest.7758A4AE497B0696.quest_subtitle: "A Pink-dyed variant of Levitite."
+	quest.77EAEEB36316F1D3.quest_desc: ["It behaves exactly like Levitite. Make it by holding red dye in your offhand while crystallizing Levitite Blend."]
+	quest.77EAEEB36316F1D3.quest_subtitle: "A Red-dyed variant of Levitite."
+	quest.78E10AA674653EFE.quest_desc: ["This compatibility addon makes Waystones work correctly inside Sable's sub-levels, so teleporting to and from ships and plots behaves seamlessly."]
+	quest.78E10AA674653EFE.quest_subtitle: "Waystones let you fast-travel, even across sub-levels."
+	quest.794C0CD2DA500874.quest_desc: ["A self-contained engine that produces rotational force from fuel, in either direction. Feed it a Blaze Cake to superheat it for extra power."]
+	quest.794C0CD2DA500874.quest_subtitle: "The Portable Engine generates rotation by burning fuel."
+	quest.79EB7E0D64481D3E.quest_desc: ["It works exactly like the standard Small Tire - only the color changes. Craft a Small Tire together with light gray dye to make it."]
+	quest.79EB7E0D64481D3E.quest_subtitle: "A Light Gray-dyed Small Tire."
+	quest.7DBC2BE3FDC8A80F.quest_desc: ["It works exactly like the standard Tire - only the color changes. Craft a Tire together with orange dye to make it."]
+	quest.7DBC2BE3FDC8A80F.quest_subtitle: "An Orange-dyed Tire."
+	quest.7DC0802DE8DAABE4.quest_desc: ["It works exactly like the standard Monstrous Tire - only the color changes. Craft a Monstrous Tire together with lime dye to make it."]
+	quest.7DC0802DE8DAABE4.quest_subtitle: "A Lime-dyed Monstrous Tire."
+	quest.7E7202497F167C39.quest_desc: ["Like a steam engine it needs heat, water and boiler space. Power it with redstone to fill the balloon above, and use its panel to set the maximum output."]
+	quest.7E7202497F167C39.quest_subtitle: "The Steam Vent fills balloons using steam."
+	quest.7EAE26D617139AA2.quest_desc: ["It yaws and pitches like a normal Vector Thruster, but burns pumped liquid fuel instead of using FE. Pump fuel in from below and throttle with redstone."]
+	quest.7EAE26D617139AA2.quest_subtitle: "A Vector Thruster that runs on liquid fuel."
+	quest.7EF33147EAB0130A.quest_desc: ["It attaches to the block in front of it and assembles glued blocks into a Simulated Contraption when powered. Rotation passes straight through it, and redstone can unlock it to spin freely."]
+	quest.7EF33147EAB0130A.quest_subtitle: "The Swivel Bearing assembles a contraption that can spin."
+	quest.7FCD34A7D5FB6E71.quest_desc: ["It works exactly like the standard Large Tire - only the color changes. Craft a Large Tire together with purple dye to make it."]
+	quest.7FCD34A7D5FB6E71.quest_subtitle: "A Purple-dyed Large Tire."
+	reward_table.1C864F8974DFE8F8.title: "aero1"
+	reward_table.6FD270978E3E3202.title: "aero2"
+	task.198715B72EDBE74B.title: "Create Aeronautics：Toolgun"
+	task.26E8713A130BD1A7.title: "Create Aeronautics"
+	task.2A23AEF72D708026.title: "Create Aeronautics"
+	task.2A83FE6CE576DC08.title: "Create Aeronautics: Dyeable Components"
+	task.36777FDCD5AF03DE.title: "Create Propulsion: Simulated"
+	task.36836011719E1166.title: "Create Aeronautics: Toolgun"
+	task.3D7EEC566AEE1A42.title: "Create Aeronautics"
+	task.4C5094805148C659.title: "Create Deep Seas"
+	task.4EC24D1AE7296F46.title: "Create Deep Seas"
+	task.5133EB6BE4F15134.title: "Create: Aeroworks"
+	task.515B72D378D7A437.title: "Create Aeronautics Skybound"
+	task.556BC4801B1DEC72.title: "Create Aeronautics"
+	task.6F35BC6B8EBDE3D0.title: "Create: Aeroworks"
+	task.7F43FE813AEAA882.title: "Create: Propulsion"
+}

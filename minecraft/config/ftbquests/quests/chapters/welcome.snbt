@@ -1,0 +1,356 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "714BED084D92B8FB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"2A373774987EE8AC"
+				"7E80E2BD1A3F9BD7"
+				"6A0D4B240AA501AF"
+				"5B568042FFE72A00"
+				"17A4D1FD5B7C5947"
+				"46EBC401ADEE3C15"
+			]
+			id: "33CA43DD32CBFF1F"
+			rewards: [
+				{
+					id: "22BC1982BCCD2451"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#049EA8\",\"italic\":false,\"text\":\"LupinYT\"}"
+							"minecraft:lore": ["{\"color\":\"#0778B0\",\"italic\":false,\"text\":\"Modpack Developer\"}"]
+							"minecraft:profile": {
+								id: [I;
+									199678548
+									-1868085786
+									-1836668435
+									141584673
+								]
+								name: "LupinYT"
+								properties: [{
+									name: "textures"
+									signature: "bF1HzhnQHSoDSvD+sJDxzbLyVxpmBy2NJ7ZwhybTSTvBRpGmMiWishH0wD9E+j/cN2X2KpOEXadw4hfiKkylhF9l/QCSct3lYwZRdVNm+vEwjnPZdxUBvnk8AzLgZTZ1wXDPq2+5Jjr5T6nt6wQUie4FCshW1MWSbRW2aaNDHc2G45bIzZCEpIOMNIxSeZeDb9+zkFFgolf6E6XaB9F5lTybh++wz4rvcE0c8DDyXxher/bjMGrEKyOQqJ0e58xlMUm81Um1AaZwe9rGU6JnC2xfGLihgpBB7Dsfz8GqH3AcK1PQQzocuupqCXayLJZf85mul+hzNARSFoBc22+mVlkgI8Zu6g1uIH5ETtEOPJ9vMf6TVs7Tvst4K0pHIvfD8LBzH3zFPBTiFipqN+di+62KasYacyI27Bc1J/VyvikB6q+uorCfnfuELggeuxL2oAS78rrzr+qa7xqD4bzg7osc5qaDk/jnahswuzZ6takk/R//OwToAKlsvpG8dwoycGRwcHSc/xiKSAfPzE/+oq1camc1Fg5egqCZssgqRArz0ztrCTO2XD9ddk5yXoe9jVynt1HdUWZTzw5e/ky0IPGg6S1rfIZvUgCEQN/mtkP7cFHZh7E9AslVAnsXNxkEXc9l5YMxUO6sReGq5Gl3UWd3q1M3hFFZTI8yfnDEN3g="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc3OTYzMzYzNjAyMiwKICAicHJvZmlsZUlkIiA6ICIwYmU2ZGE1NDkwYTc0NWU2OTI4NmE5ZWQwODcwNjkyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdXBpbllUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0ODQ1ZGI5Njk3MmZkYzY4OGRkZTNkZDgyNzJkZTgwYmE0YjA4MmJiNjI1NjhjOWUzMDZhY2NlODgzYzZiOTMiCiAgICB9CiAgfQp9"
+								}]
+							}
+							"minecraft:rarity": "epic"
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "26961649C89260A2"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#A700F5\",\"italic\":false,\"text\":\"GABRIELE_333\"}"
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"Quests Developer\"}"]
+							"minecraft:profile": {
+								id: [I;
+									-1173522245
+									-1670361890
+									-2093063134
+									1282665383
+								]
+								name: "GABRIELE_333"
+								properties: [{
+									name: "textures"
+									signature: "qQzQHpQJT/6ly7dWAxwQDqmxXAG+V45fYteP9fGLOrG5rfnfpfXBKt7rGikjcpkPf6iJdMOIgCXkzz4vLSmUGLpvxzFPL6lcmhX0O9x48NcGQYgRRAZ6XA1/C5Um139wdX3FF84oY50kBjqlu7Ml0TYyb5ZXOKuIZSZJHLjsBj5dhcm2yGi1d4YJKE7NNojVyDl2HF34u9lcnmSfWQ11PSfjtwnJXjeXhI2l+YkcnBux9EO/I45/MGu1C1Vdrgnb8W0SzqVmIB0cyrmvj8K++u5LyZn++BTrNdZhgVsnqEb5VvoyV11WaAkM+8eoUfo51T2nEuJ0jn74BF9+kFHCHNuGCTe/gE+KdPyyQ2+pgcxEOxoyWIwBPQPS9uXfBfx+5YKcyCJkr8uFkv16Vm5rGfWueChpWWIzNrDZUGoC6UaiztwqzsbvOEAD4JYslrIajwROjqmJ4kmzvNUUpCTsuRc/o8NGapggsf1JOOTp3nrPqEeaS1tVSzw+JDlNP3Ij9MBRzn70w3tzVHTk0Pxdd/R4POhpLGH4fJwwau38Xve52HAwvF6TLb3Vv0Gw5N075W54ZftlBdhRQOQ5xMMxb6KBwPlzXfETxv+6goL1KEUyk8lOF1JScErEI0nOIbWKBisCB8bZ8Ue8+VUcixzlSO5mQuE8caxd4lW0IxX77G0="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc3OTYzMzU4MzU3MSwKICAicHJvZmlsZUlkIiA6ICJiYTBkNzhiYjljNzA0Y2RlODMzZTY0MjI0YzczZWJhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHQUJSSUVMRV8zMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGExMzZkNWM4ZjI1MGZiZDA3NDU4YTliM2JiYmI0M2I2ODkyMjkxNTViMWRiNzE5Y2I4NzE1YmMxMGVlNGE2NCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0="
+								}]
+							}
+							"minecraft:rarity": "epic"
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "515B72D378D7A437"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"58E158C8F2C04BEB"
+				"6887C6B7ED8727B3"
+				"03CB4B44E73A22B3"
+				"7157002074776C07"
+				"2A16B58B805EAA44"
+				"2D70F503EA6F2994"
+				"4CD822763FCBF7EF"
+				"705C8ABB2339A5D5"
+				"65715BCC3BF025C1"
+				"3EC84EB6EA2E0FDC"
+				"7EF33147EAB0130A"
+				"4C8DDA689FE8369D"
+				"7E7202497F167C39"
+				"40FB7ECF967AE45A"
+				"0E78B1230C3C72FF"
+				"5DC411437882B19D"
+				"5C6E945F38EA9846"
+				"6BC833A2D916A0DC"
+				"17E782AB29435F2A"
+				"053FDD5AD459D89A"
+				"0D84377B8557480E"
+				"5D745773CEA7E388"
+				"2CF12EE122D19969"
+				"654FBC78D1C3B35D"
+				"0840C62E91BAD7FE"
+				"25B581A958F22442"
+				"500FA9792456C013"
+				"30AE6897560E6C83"
+				"794C0CD2DA500874"
+				"52A593D191365A78"
+				"18594A0013B696D4"
+				"5287D9F564797135"
+				"345621C5B198C54D"
+				"00F44F4FA88A59F9"
+				"094E094CAF723F38"
+				"74AD9C3B54878FDB"
+				"4058BCBC7493D7BB"
+				"1FEFD4A091122E0C"
+				"4AA6E52423B4A264"
+				"675A9530C02D7A94"
+				"474804E4154F2C34"
+				"2F7C30CFCD7A1215"
+				"78E10AA674653EFE"
+				"045FBC3A653F7687"
+				"39E3C2D99DD35934"
+				"38EC378844976A93"
+				"20E81D9330FA1564"
+				"6142979F2E5E54E5"
+				"599CBC177D3D745D"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cas:textures/quest/aero/aeronautics.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.2d
+			id: "2A373774987EE8AC"
+			size: 1.25d
+			tasks: [{
+				id: "26E8713A130BD1A7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.25d
+		}
+		{
+			dependencies: [
+				"110ECA0EC95029E6"
+				"0251560FBD2D0D1B"
+				"74B9BA10EBDCAF89"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cas:textures/quest/aero.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.2d
+			id: "7E80E2BD1A3F9BD7"
+			tasks: [{
+				id: "6F35BC6B8EBDE3D0"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"766261AFB8BCC811"
+				"2C00F0070ACC0D49"
+				"066D922BF446DAC2"
+				"5D851AA005725F11"
+				"55239B8751A3080F"
+				"7EAE26D617139AA2"
+				"4AEAEBF9EC825F7B"
+				"55DBEABEF5174219"
+				"6A891A299CB4627F"
+				"57D7693005A610F0"
+				"4C900E5C7D80C67F"
+				"4F19053A36114341"
+				"340E8841095673AD"
+				"6E14453ED3BE0EE0"
+				"677DFEE3535D5FB5"
+				"128AA441B49ADCA8"
+				"445EC4706FBE3A4A"
+				"488574695C845D32"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cas:textures/quest/prop/proplogo.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.2d
+			id: "6A0D4B240AA501AF"
+			size: 1.25d
+			tasks: [{
+				id: "36777FDCD5AF03DE"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.25d
+		}
+		{
+			dependencies: [
+				"1345BAD71D0CBBEA"
+				"2C51DD06F3E9AA06"
+				"0899F1A317DE5D5C"
+				"56964EE9BF575F80"
+				"0DE6BF03E14CC2B0"
+				"21C1B82822A265E6"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cas:textures/quest/deep/deeplogo2.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.2d
+			id: "5B568042FFE72A00"
+			tasks: [{
+				id: "4C5094805148C659"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.75d
+		}
+		{
+			dependencies: [
+				"43CBA06DCCAC3A8A"
+				"45EF93C539B4689C"
+				"6262A1BE2DF8FFA1"
+				"1AE7D3151046ACB2"
+				"566E38B30F4AE69F"
+				"6EA6C44A8FBFCFD9"
+				"326F7E4191A3B586"
+				"1556C1785FEBF54B"
+				"79EB7E0D64481D3E"
+				"322ED3D5037ACE11"
+				"3E26F6522B3D3E58"
+				"1F6F077E5A84C184"
+				"72243D5F4B43912B"
+				"09197DD41E190CC2"
+				"7DBC2BE3FDC8A80F"
+				"6E1BE7174F44D650"
+				"05C1F9477895F68A"
+				"7758A4AE497B0696"
+				"77EAEEB36316F1D3"
+				"074A4F5C89155D9C"
+				"251ED9DA3DE04C84"
+				"3E68A212BCC5641E"
+				"5E051237C5E852FB"
+				"3BEDE46A6B0D3C28"
+				"1A3C7EB8A16B244C"
+				"07CD69D9A4712343"
+				"5F76EA2FEC505EAE"
+				"4FEFB2F08A61A1D6"
+				"427CB698EA6AB226"
+				"6073B047C7B98625"
+				"50581515CDE49180"
+				"369A7E3794430DC4"
+				"1978F486110CBC58"
+				"07BE6D0CE9B587AA"
+				"5760BF287EEB0C0E"
+				"6FB3B725E195FEAC"
+				"5628479EB6BB2EBF"
+				"4ECDD706A12D0B55"
+				"0A93FEE51028A7ED"
+				"0D701C18E51413C8"
+				"449B33FFDD357065"
+				"5DCE62E32B5099CA"
+				"1339E01691579FC0"
+				"337A6F12AA7787A7"
+				"40EFF12F6BD08A28"
+				"461E3EE93322116C"
+				"3308C9FB157052BF"
+				"2EEBDC974094D856"
+				"05674EC2F9DCA5B9"
+				"7283D2C2EED00F55"
+				"33FD60BF45473C41"
+				"6DE61A1D5AEE2153"
+				"1CC06C4B4C26D8EB"
+				"513D5B47A7AE1492"
+				"385C311DDF5493DD"
+				"512C2F38D9309C6E"
+				"5CE5CD23C00E3F04"
+				"63279EB782F2752F"
+				"251A6CA0F0E72812"
+				"43FAF8E191552C9E"
+				"7DC0802DE8DAABE4"
+				"138498F781268701"
+				"08C5D49B7352385A"
+				"2D6FF740F5A6A951"
+				"43079D90150A1845"
+				"607F881A2C2B5F97"
+				"43A313839B7A6D00"
+				"3B5D4F93B2DFF4CC"
+				"7FCD34A7D5FB6E71"
+				"2C224C8A4945C10E"
+				"6E033C8BD4724C99"
+				"30CE22AC51635FE5"
+				"47B1FE98C581834D"
+				"16EDF4808ED3BCDB"
+				"27CF01E530CC4280"
+				"22B2AE9DDBBC5079"
+				"4CD565A8B60FF798"
+				"0CCF10D10F894B7A"
+				"59AB803FFC868FFC"
+				"23C4D2DA6DEB2D9A"
+				"42A7F6375FDC57BD"
+				"2C50E0D12250E1A5"
+				"5B50E0BA87CF1BDC"
+				"4446C9E3387287A9"
+				"37C182DB7AFC5A18"
+			]
+			icon: {
+				id: "aeronautics_dyeable_components:red_levitite"
+			}
+			icon_scale: 1.2d
+			id: "17A4D1FD5B7C5947"
+			size: 1.25d
+			tasks: [{
+				id: "2A83FE6CE576DC08"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.25d
+		}
+		{
+			dependencies: [
+				"291911E6EC50FEFC"
+				"4474950744B2A197"
+				"2098CA328801A7A3"
+				"3EE264726A5354CC"
+			]
+			icon: {
+				id: "create_aeronautics_toolgun:survival_structure_tool"
+			}
+			icon_scale: 1.2d
+			id: "46EBC401ADEE3C15"
+			tasks: [{
+				id: "36836011719E1166"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+	]
+}

@@ -1,0 +1,21 @@
+filename = 'betterfpsdist-1.21-6.0.jar'
+name = 'Better Fps - Render Distance[Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betterfpsdist-1.21-6.0.jar'
+
+[download]
+hash = '5377aae3a0f0eb65aa5dceca4985f53480a73db5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5723250
+project-id = 551520
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

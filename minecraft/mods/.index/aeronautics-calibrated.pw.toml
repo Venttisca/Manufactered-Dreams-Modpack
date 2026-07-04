@@ -1,0 +1,18 @@
+filename = 'Neoforge-Aeronautics-Calibrated-1.2.2.jar'
+name = 'Aeronautics: Calibrated'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Neoforge-Aeronautics-Calibrated-1.2.2.jar'
+
+[download]
+hash = '60629abb8d37b20eb008b6d08a6924846a4fc3f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8115299
+project-id = 1532869

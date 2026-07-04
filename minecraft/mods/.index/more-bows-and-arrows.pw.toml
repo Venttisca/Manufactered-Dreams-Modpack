@@ -1,0 +1,21 @@
+filename = 'more_bows_and_arrows-merged-1.21.1-5.0.4.jar'
+name = 'More Bows and Arrows | Major Update Available!'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] More Bows and Arrows - MC 1.21.1 - 5.0.4'
+
+[download]
+hash = 'bf6f4fe15de1374a8e185a7a67c8f60d247702c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8133154
+project-id = 888468
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

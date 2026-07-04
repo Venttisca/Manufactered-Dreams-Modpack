@@ -1,0 +1,21 @@
+filename = 'treephysics-neoforge-1.21.1.jar'
+name = 'Tree Physics'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Tree Physics 2.0'
+
+[download]
+hash = '628f1cc2346370f968353fdbfed0855a8c99a86a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8182793
+project-id = 1522010
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'REQUIRED'

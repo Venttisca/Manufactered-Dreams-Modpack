@@ -1,0 +1,21 @@
+filename = 'Better-Crossbows-Neoforge-1.21.1-1.0.0.jar'
+name = 'Better Crossbows'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Better Crossbows - MC 1.21.1 - 1.0.0'
+
+[download]
+hash = '56e09b4633f76cb0e71fcf15986d7bb3cef329f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7321844
+project-id = 1402632
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

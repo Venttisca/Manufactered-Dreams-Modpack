@@ -1,0 +1,33 @@
+filename = 'create_structures_arise-176.49.48 NeoForge 1.21.1.jar'
+name = 'Create: Structures Arise'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_structures_arise-176.49.48 NeoForge 1.21.1.jar'
+
+[download]
+hash = '48f22eb339299d832f66d39fecee2ca26880b574'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8138502
+project-id = 1010066
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '624165'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1470821'
+type = 'REQUIRED'

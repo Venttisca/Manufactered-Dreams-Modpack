@@ -1,0 +1,21 @@
+filename = 'KineticGrip-1.21.1-1.0.4.jar'
+name = 'Create Aeronautics: Kinetic Grip'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KineticGrip-1.21.1-1.0.4.jar'
+
+[download]
+hash = '24628a948ecd1e0603ccd04581637e15e1264386'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8167731
+project-id = 1523676
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'REQUIRED'

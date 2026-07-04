@@ -1,0 +1,21 @@
+filename = 'CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1].jar'
+name = 'CameraOverhaul'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.1.1-neoforge+mc[1.21-1.21.1]'
+
+[download]
+hash = '4b30a0b3f5fa8290fa7fad94dab2b9419f54215f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8142517
+project-id = 423602
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

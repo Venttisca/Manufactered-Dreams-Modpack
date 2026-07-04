@@ -1,0 +1,21 @@
+filename = 'healthy_water-merged-1.21.1-1.0.1.jar'
+name = 'Healthy Water'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] Healthy Water - MC 1.21.1 - 1.0.1'
+
+[download]
+hash = 'af31301d3de5bd93d1861053f54975bd3f47e4fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5980648
+project-id = 921753
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

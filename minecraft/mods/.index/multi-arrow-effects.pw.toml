@@ -1,0 +1,18 @@
+filename = 'MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar'
+name = 'Multi Arrow Effects [Multiple Effects on One Arrow]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MultiArrowEffects-Neoforge-1.21.1-1.0.0'
+
+[download]
+hash = '5d6d67001d723101bc55e32e8592aff2adc1081b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7286008
+project-id = 1396590

@@ -1,0 +1,21 @@
+filename = 'betterpickaxetrims-neoforge-1.21.1-1.0.0.jar'
+name = 'Better Pickaxe Trims'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Better Pickaxe Trims - MC 1.21.1 - 1.0.0'
+
+[download]
+hash = 'bc103331fdf3292b713670e374295cf4b8754ea6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5854639
+project-id = 1130125
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

@@ -1,0 +1,69 @@
+filename = 'mcwbiomesoplenty-neoforge-1.21.1-1.6.jar'
+name = "Macaw's Biomes O' Plenty"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mcwbiomesoplenty-neoforge-1.21.1-1.6'
+
+[download]
+hash = 'ec8e661a5ef336eb2bd9b8a1978df1213a812ded'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8296109
+project-id = 533382
+
+[[x-prismlauncher-dependencies]]
+addonId = '453925'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '940057'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1090999'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '955399'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '400933'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '363569'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1119394'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '378646'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '220318'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '352039'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '629153'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '359540'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351725'
+type = 'OPTIONAL'

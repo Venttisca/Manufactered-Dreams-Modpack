@@ -1,0 +1,18 @@
+filename = 'Kobolds-4.0.1.jar'
+name = 'Kobolds!'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Kobolds V4.0.1'
+
+[download]
+hash = '3f77ed5c2dc4e2b37c79578efffaf1d19e9f2ff4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8198851
+project-id = 484967

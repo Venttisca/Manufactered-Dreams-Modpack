@@ -1,0 +1,25 @@
+filename = 'medieval_buildings-1.21.1-1.1.1-neoforge.jar'
+name = 'Medieval Buildings - New Structures!'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Medieval Buildings - MC 1.21.1 - 1.1.1'
+
+[download]
+hash = '0a2214e95eb318ad64b3b3faf2cad036459ffc17'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6952841
+project-id = 924590
+
+[[x-prismlauncher-dependencies]]
+addonId = '1278431'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '976817'
+type = 'OPTIONAL'

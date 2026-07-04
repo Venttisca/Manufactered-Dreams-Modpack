@@ -1,0 +1,25 @@
+filename = 'adorable_eggs-NeoForge-1.21.1-1.0.3.jar'
+name = 'Adorable Eggs - New Spawn Eggs and Plushies'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Adorable Eggs - MC 1.21.1 - 1.0.3'
+
+[download]
+hash = 'ae4edc9ed842bf6e0abbde5a12b1ce4568b85bfe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7812384
+project-id = 1257245
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '955605'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'georges_flying_island-1.0.1-neoforge-1.21.1.jar'
+name = "George's flying island"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'georges_flying_island-1.0.1-neoforge-1.21.1.jar'
+
+[download]
+hash = '9f806bd9934968735ac1a7cfa85b6acb53167c4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5715235
+project-id = 1066583

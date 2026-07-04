@@ -1,0 +1,113 @@
+{
+	autofocus_id: "110ECA0EC95029E6"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_aeroworks"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "cas:textures/quest/aero.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "5948749BE6C55465"
+	images: [{
+		height: 8.0d
+		image: "cas:textures/quest/aerologo2.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: -3.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cas:textures/quest/aero.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.2d
+			id: "110ECA0EC95029E6"
+			size: 2.0d
+			tasks: [{
+				id: "5133EB6BE4F15134"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["110ECA0EC95029E6"]
+			id: "74B9BA10EBDCAF89"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "661E041DB998E270"
+					table_id: 8057626479548051970L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "593ADF7406CE32B5"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "1844441D5DB1B332"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{
+				id: "5CD391AB363AEE62"
+				item: { count: 1, id: "aeroworks:gyroscope" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["110ECA0EC95029E6"]
+			id: "0251560FBD2D0D1B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "566FC6D76999C637"
+					table_id: 2055417731731155192L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "694B311683433A36"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "0DCB39C37681B1F5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{
+				id: "3E3D92A96D1E0B31"
+				item: { count: 1, id: "aeroworks:joystick" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+}

@@ -1,0 +1,21 @@
+filename = 'FHG-NeoForge-1.21.1-1.0.0.jar'
+name = 'Freeze the Happy Ghasts'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Freeze the Happy Ghasts - MC 1.21.1 - 1.0.0'
+
+[download]
+hash = 'd323215f0011fce28f5efbbadcba27a5ae906b5a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7174247
+project-id = 1308047
+
+[[x-prismlauncher-dependencies]]
+addonId = '417430'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'eat_an_omelette-merged-1.21.1-1.5.0.jar'
+name = 'Eat an Omelette'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] Eat an Omelette - MC 1.21.1 - 1.5.0'
+
+[download]
+hash = 'bf597d43e6b15050f531c4a2158d495ce718cdbd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5875969
+project-id = 859307
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '873866'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar'
+name = 'Aether Addon: Protect Your Moa'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Protect Your Moa - 1.21.1-1.0.0-neoforge'
+
+[download]
+hash = '9e82d2739b197ae80333cede547083ef1ba056a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6040716
+project-id = 1016303
+
+[[x-prismlauncher-dependencies]]
+addonId = '255308'
+type = 'REQUIRED'

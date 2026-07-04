@@ -1,0 +1,18 @@
+filename = 'Better_Sword_Trims-Neoforge-1.21.1-1.0.0.jar'
+name = 'Better Swords Trims'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Better Swords Trims - MC 1.21.1 - 1.0.0'
+
+[download]
+hash = '2d6f03ff5a58b2c7a780ec85df297900e6ebdf0a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7246472
+project-id = 1387379

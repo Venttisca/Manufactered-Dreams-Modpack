@@ -1,0 +1,21 @@
+filename = 'happy_ghasts_boost-merged-1.21.1-1.0.1.jar'
+name = 'Happy Ghasts Boost'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] Happy Ghasts Boost - MC 1.21.1 - 1.0.1'
+
+[download]
+hash = 'f64f15471b4b794643f30c1f95551d5fe8f80bfc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7938458
+project-id = 1360543
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

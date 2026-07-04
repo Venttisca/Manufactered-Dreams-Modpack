@@ -1,0 +1,25 @@
+filename = 'GeophilicBackported-v1.3.3 1.21.1.jar'
+name = 'Geophilic Backport - Vanilla Backport Compact'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.3.3 ~ Geophilic Backport 1.21.1'
+
+[download]
+hash = '7a65208e25a0f894e70a20ad675e50bf2919feab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8039064
+project-id = 1326075
+
+[[x-prismlauncher-dependencies]]
+addonId = '711216'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '417430'
+type = 'REQUIRED'

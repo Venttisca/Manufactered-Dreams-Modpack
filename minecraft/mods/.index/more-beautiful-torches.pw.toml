@@ -1,0 +1,21 @@
+filename = 'more_beautiful_torches-merged-1.21-3.0.0.jar'
+name = 'More Beautiful Torches | +600 New Torches!'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] More Beautiful Torches - MC 1.21.1 - 3.0.0'
+
+[download]
+hash = 'fd9b664a59cbb187a7a3992ff0aaee619000cace'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5609745
+project-id = 860325
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

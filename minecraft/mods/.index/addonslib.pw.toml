@@ -1,0 +1,18 @@
+filename = 'addonslib-neoforge-1.21.1-1.13.jar'
+name = 'AddonsLib'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'addonslib-neoforge-1.21.1-1.13'
+
+[download]
+hash = 'bd45556ba6b476e7656a6c97e9f398e5f0a91f2c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8159795
+project-id = 1090999

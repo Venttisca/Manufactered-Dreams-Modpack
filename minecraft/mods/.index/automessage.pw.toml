@@ -1,0 +1,21 @@
+filename = 'automessage-merged-1.21.1-3.0.0.jar'
+name = 'AutoMessage'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] AutoMessage - MC 1.21.1 - 3.0.0'
+
+[download]
+hash = '1c312eb30c8e1bd608d4ea66b1a950f780ee814a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7018836
+project-id = 868624
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

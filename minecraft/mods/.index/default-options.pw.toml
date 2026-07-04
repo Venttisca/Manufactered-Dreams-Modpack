@@ -1,0 +1,21 @@
+filename = 'defaultoptions-neoforge-1.21.1-21.1.7.jar'
+name = 'Default Options'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'defaultoptions-neoforge-1.21.1-21.1.7.jar'
+
+[download]
+hash = 'b50f70a32b824f05b5815811904caa2e15fd8f12'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8286322
+project-id = 232131
+
+[[x-prismlauncher-dependencies]]
+addonId = '531761'
+type = 'REQUIRED'

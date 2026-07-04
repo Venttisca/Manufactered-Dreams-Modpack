@@ -1,0 +1,21 @@
+filename = 'time_on_display-merged-1.21-2.0.0.jar'
+name = 'Time On Display'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] Time On Display - MC 1.21.1 - 2.0.0'
+
+[download]
+hash = '8d77892c5a990533366119f03be9b8cf15c7febe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5609781
+project-id = 958881
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

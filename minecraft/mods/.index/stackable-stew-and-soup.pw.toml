@@ -1,0 +1,21 @@
+filename = 'stackable_stew_and_soup-merged-1.21.1-2.0.1.jar'
+name = 'Stackable Stew and Soup'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neo/Fabric] Stackable Stew and Soup - MC 1.21.1 - 2.0.1'
+
+[download]
+hash = 'fd1f5abe4e56d1cf0edf4924fb9ef56f5c6c8882'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5982846
+project-id = 886735
+
+[[x-prismlauncher-dependencies]]
+addonId = '968432'
+type = 'REQUIRED'

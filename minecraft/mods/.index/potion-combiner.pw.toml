@@ -1,0 +1,18 @@
+filename = 'potion_combiner-1.21.1-Neoforge-1.0.0.jar'
+name = 'Potion Combiner [Potion Blending Combiner]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Potion Combiner - Neoforge - 1.21.1-1.0.0'
+
+[download]
+hash = 'b6ab277f2b12430a63ca1b3f74303e542928a2c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7258831
+project-id = 1391289

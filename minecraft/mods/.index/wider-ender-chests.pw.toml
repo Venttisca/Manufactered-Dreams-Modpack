@@ -1,0 +1,18 @@
+filename = 'wider_ender_chests-neoforge-1.21.1-1.0.4.jar'
+name = 'Wider Ender Chests | 8 New Ender Chests!'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Wider Ender Chests - MC 1.21.1 - 1.0.4'
+
+[download]
+hash = 'bd8a8fa3b6c531fea79821f144bb22537ef5b828'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8016653
+project-id = 1010456
