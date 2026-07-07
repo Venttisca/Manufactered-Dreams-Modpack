@@ -19632,6 +19632,10 @@
     "maxWaterDepth": 7,
     "implosionChance": 0.85
   },
+  "gravestone:gravestone": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "illagerinvasion:imbuing_table": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6

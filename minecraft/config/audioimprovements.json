@@ -1,6 +1,6 @@
 {
-    "monoMusicDiscs": true,
-    "monoNoteBlocks": true,
+    "monoMusicDiscs": false,
+    "monoNoteBlocks": false,
     "monoWeather": false,
     "monoBlocks": false,
     "monoHostile": false,
@@ -12,7 +12,7 @@
     "fadeMusicWhenNoteBlockPlaying": true,
     "musicFadeOutSeconds": 2,
     "musicFadeInSeconds": 5,
-    "preventMusicRepeat": true,
+    "preventMusicRepeat": false,
     "customMusicFrequency": false,
     "musicFrequencyMinTicks": 20,
     "musicFrequencyMaxTicks": 6000,
